@@ -18,7 +18,7 @@ Under System Variables search for the variable Path.
 Select Path by clicking on it. Click on Edit.
 Scroll all the way to the right of the field called Variable value using the right arrow.
 Add a semi-colon (;) to the end and paste the path (to the Python folder) that you previously copied. Click OK.
-Writing Your First Python Program
+Writing Your First Python Program.
 
 Create a folder called PythonPrograms on your C:\ drive. You will be storing all your Python programs in this folder.
 Go to Start and either type Run in the Start Search box at the bottom or click on Run.
