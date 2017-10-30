@@ -1,7 +1,7 @@
 # PythonWorkshop
 Intro to Python Workshop for WICSE
 
-#FOR WINDOWS USERS:
+FOR WINDOWS USERS:
 Installation of Python
 
 Download the current production version of Python (3.6.2) from the Python Download site.(https://www.python.org/downloads/)
